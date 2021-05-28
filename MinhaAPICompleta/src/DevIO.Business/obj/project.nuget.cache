@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LItPMYkrj56a9pyzSpGf2o5CmpE11CiOHTHfJgn23IsLyyvGQgLzDv0zZVNIcdfKCZbIN2RLv6aFUJCKP87dGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
