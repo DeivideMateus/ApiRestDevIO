@@ -54,3 +54,8 @@ C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\ob
 C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\obj\Debug\netcoreapp3.1\DevIO.API.dll
 C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\obj\Debug\netcoreapp3.1\DevIO.API.pdb
 C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\obj\Debug\netcoreapp3.1\DevIO.API.genruntimeconfig.cache
+C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\obj\Debug\netcoreapp3.1\DevIO.API.csproj.CoreCompileInputs.cache
+C:\Users\Deivide\Documents\GitHub\ApiRestDevIO\MinhaAPICompleta\src\DevIO.API\obj\Debug\netcoreapp3.1\DevIO.API.MvcApplicationPartsAssemblyInfo.cache

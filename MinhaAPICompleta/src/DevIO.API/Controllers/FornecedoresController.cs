@@ -19,11 +19,10 @@ namespace DevIO.API.Controllers
             _mapper = mapper;
         }
 
-        public async Task<ActionResult<IEnumerable<FornecedorViewModel>>> ObterTodos()
+        public async Task<IEnumerable<FornecedorViewModel>> ObterTodos()
         {
             var fornecedor = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fornecedorRepository.ObterTodos());
-
-            return Ok(fornecedor);
+            return fornecedor;
         }
     }
 }

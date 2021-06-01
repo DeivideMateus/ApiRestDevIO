@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cXmcfokq9fq1eT2grFf3uMWqs1KWtwN4WeQSTcBWyJUcJDCL21FAy7I/7iI9w3ifoYLh+n+XwpIb2CDxi/akrg==",
+  "dgSpecHash": "yrRXH0PuHXYzZBlFJLe1y0FuFKDof0uiBE8MdvbYMfL67X3OMfuyxUu6eFgY0aoccdwaBa/q06dluZnk7fOVIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.4\\microsoft.entityframeworkcore.3.1.4.nupkg.sha512",
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.4\\microsoft.entityframeworkcore.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.4\\microsoft.entityframeworkcore.analyzers.3.1.4.nupkg.sha512",
+    "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.4\\microsoft.entityframeworkcore.design.3.1.4.nupkg.sha512",
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.4\\microsoft.entityframeworkcore.relational.3.1.4.nupkg.sha512",
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.4\\microsoft.entityframeworkcore.sqlserver.3.1.4.nupkg.sha512",
     "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
