@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xwSRLqqCbMuK0Afcd/2nl38VgTKGESL/VRCu+gTtoSH6DJXS78OMi8FfGPirXL4YvWXv+St0ct26uMTKkfSZ7g==",
+  "dgSpecHash": "XutbheWdHQ53L57Kwb52lX9kN5xJhvQNQ90Z28IZz9kAaKcRugJoxCdCV7tGrVaNBwd+dx8oUtuJo80zoufo/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Deivide\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.4\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.4.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
-    "C:\\Users\\Deivide\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.4\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.4.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []
 }

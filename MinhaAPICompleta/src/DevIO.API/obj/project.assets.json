@@ -1364,10 +1364,7 @@
         },
         "runtime": {
           "bin/placeholder/DevIO.Business.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "DevIO.Data/1.0.0": {
         "type": "project",
@@ -5240,19 +5237,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deivide\\.nuget\\packages\\": {}
+    "C:\\Users\\deivide.nascimento\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
+      "projectUniqueName": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
       "projectName": "DevIO.API",
-      "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
-      "packagesPath": "C:\\Users\\Deivide\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\obj\\",
+      "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
+      "packagesPath": "C:\\Users\\deivide.nascimento\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Deivide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deivide.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5264,12 +5268,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
             },
-            "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Users\\Deivide\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\Users\\deivide.nascimento\\Documents\\GitHub\\ApiRestDevIO\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }
@@ -5282,6 +5287,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -5316,7 +5322,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
