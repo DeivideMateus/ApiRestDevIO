@@ -1,0 +1,18 @@
+{
+  "id": "2fe3c474-c509-48f1-907e-03d171525638",
+  "nome": "Casa do Nerd",
+  "documento": "55592454538",
+  "tipoFornecedor": 1,
+  "endereco": {
+        "id": "adfd97c9-8a2a-4e2b-a92e-48595799bff9",
+        "logradouro": "Rua teste",
+        "numero": "123",
+        "complemento": "",
+        "bairro": "Bairro teste",
+        "cep": "49090450",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "fornecedorId": "00000000-0000-0000-0000-000000000000"
+  },
+  "ativo": true
+}

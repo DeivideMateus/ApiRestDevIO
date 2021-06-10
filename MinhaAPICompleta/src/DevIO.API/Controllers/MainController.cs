@@ -27,8 +27,18 @@ namespace DevIO.API.Controllers
         {
             if (OperacaoValida())
             {
-
+                return Ok(new 
+                { 
+                    success = true,
+                    data = result
+                });
             }
+
+            return BadRequest(new
+            {
+                success = false,
+                errors = _notificador.ObterNotificacoes().Select(n => n.Mensagem)
+            });
         }
 
         protected ActionResult CustomResponse(ModelStateDictionary modelState)
@@ -49,7 +59,7 @@ namespace DevIO.API.Controllers
 
         protected void NotificarErro(string mensagem)
         {
-            _notificador.Handle(new Notificacao(mensagem))
+            _notificador.Handle(new Notificacao(mensagem));
         }
     }
 }
