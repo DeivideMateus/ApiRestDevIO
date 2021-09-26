@@ -5,9 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <Compile Remove="wwwroot\imagens\**" />
+    <Content Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <Content Remove="wwwroot\imagens\**" />
+    <EmbeddedResource Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <EmbeddedResource Remove="wwwroot\imagens\**" />
+    <None Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <None Remove="wwwroot\imagens\**" />
   </ItemGroup>
 
