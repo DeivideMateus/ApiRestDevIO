@@ -5,13 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <Compile Remove="wwwroot\imagens\**" />
-    <Content Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <Content Remove="wwwroot\imagens\**" />
-    <EmbeddedResource Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <EmbeddedResource Remove="wwwroot\imagens\**" />
-    <None Remove="wwwroot\app\demo-webapi\src\assets\**" />
     <None Remove="wwwroot\imagens\**" />
   </ItemGroup>
 
@@ -27,6 +23,10 @@
   <ItemGroup>
     <ProjectReference Include="..\DevIO.Business\DevIO.Business.csproj" />
     <ProjectReference Include="..\DevIO.Data\DevIO.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\app\demo-webapi\src\assets\" />
   </ItemGroup>
 
 
