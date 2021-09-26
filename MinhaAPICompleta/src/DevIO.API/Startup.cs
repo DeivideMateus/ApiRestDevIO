@@ -47,6 +47,14 @@ namespace DevIO.API
 
             });
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Development",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
+            });
+
             services.ResolveDependencies();
 
             
@@ -59,6 +67,7 @@ namespace DevIO.API
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("Development");
             app.UseHttpsRedirection();
 
             app.UseRouting();
